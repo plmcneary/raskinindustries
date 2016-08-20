@@ -1,0 +1,141 @@
+@font-face {
+	font-family: 'entypo';
+	src:url('../fonts/controls/entypo.eot');
+	src:url('../fonts/controls/entypo.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/controls/entypo.woff') format('woff'),
+		url('../fonts/controls/entypo.ttf') format('truetype'),
+		url('../fonts/controls/entypo.svg#entypo') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.cbp-bislideshow {
+  height: 1000px;
+  list-style-image: none;
+  list-style-position: outside;
+  list-style-type: none;
+  position: relative;
+  z-index: -1;
+}
+.cbp-bislideshow li {
+  height: 101%;
+  opacity: 0;
+  position: absolute;
+  top: -0.5%;
+  transition-delay: 0s;
+  transition-duration: 1s;
+  transition-property: opacity;
+  transition-timing-function: ease;
+  width: 102%;
+}
+
+/* If background-size supported we'll add the images to the background of the li */
+
+.backgroundsize .cbp-bislideshow li {
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	background-position: center center;
+}
+
+/* ...and hide the images */
+.backgroundsize .cbp-bislideshow li img {
+	display: none;
+}
+
+.cbp-bislideshow li img {
+	display: block;
+	width: 100%;
+}
+.bg_body {
+  margin-bottom: 0 !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  margin-top: 0 !important;
+  width: 750px;
+  height: 1000px;
+}
+.cbp-bicontrols {
+  left: 30%;
+  margin-top: -66%;
+  position: relative;
+  width: 300px;
+}
+.cbp-bicontrols span {
+	float: left;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	cursor: pointer;
+}
+
+.cbp-bicontrols span:before {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	text-align: center;
+	font-family: 'entypo';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 100px;
+	font-size: 80px;
+	color: #fff;
+	-webkit-font-smoothing: antialiased;
+	opacity: 0.7;
+}
+
+.cbp-bicontrols span:hover:before {
+	opacity: 1;
+}
+
+.cbp-bicontrols span:active:before {
+	top: 2px;
+}
+
+span.cbp-biplay:before {
+	content: "\e002";
+}
+
+span.cbp-bipause:before {
+	content: "\e003";
+}
+
+span.cbp-binext:before {
+	content: "\e000";
+}
+
+span.cbp-biprev:before {
+	content: "\e001";
+}
+
+.cbp-bicontrols span.cbp-binext {
+	float: right;
+}
+
+/* Fallback */
+
+.no-js.no-backgroundsize .cbp-bislideshow li:first-child {
+	opacity: 1;
+}
+
+.no-js.backgroundsize .cbp-bislideshow li:first-child img {
+	display: block;
+}
+.design_left_sec h1{font-size:19px;}
+.main_design_page{width:92%;}
+.design_left_sec{float:left;width:35%;}
+.design_right_sec{float:right;}
+.design_page_ul{
+ list-style-type: none;
+ padding-left: 136px;
+ padding-top: 46px;
+ font-weight:bold;
+ line-height:30px;
+	
+}
+.rk_pdf_links:hover{text-decoration:underline;color:#fdd12e;}

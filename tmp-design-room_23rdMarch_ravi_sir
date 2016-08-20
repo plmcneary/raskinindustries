@@ -1,0 +1,70 @@
+<?php
+/*
+template name:Design a room
+*/
+
+?>
+<?php
+include("head.php");
+global $wpdb;
+$table_post = $wpdb->prefix . "posts";
+$table_post_meta = $wpdb->prefix . "postmeta";
+$post_id            = $_GET['id'];
+$design_img_id      = $_GET['view'];
+$design_img_field   = "slider_product_".$design_img_id."_design_image";
+$slide_1   = "slider_product_".$design_img_id."_design_background_1";
+$slide_2   = "slider_product_".$design_img_id."_design_background_2";
+$slide_3   = "slider_product_".$design_img_id."_design_background_3";
+$slide_4   = "slider_product_".$design_img_id."_design_background_4";
+$slide_5   = "slider_product_".$design_img_id."_design_background_5";
+$slide_6   = "slider_product_".$design_img_id."_design_background_6";
+$slide_7   = "slider_product_".$design_img_id."_design_background_7";
+$slide_8   = "slider_product_".$design_img_id."_design_background_8";
+$slide_9   = "slider_product_".$design_img_id."_design_background_9";
+$slide_10  = "slider_product_".$design_img_id."_design_background_10";
+
+
+$field_title      = "slider_product_".$design_img_id."_product_title";
+$field_desc       = "slider_product_".$design_img_id."_slider_description";
+$field_pdf        = "slider_product_".$design_img_id."_pdf_title";
+$field_pdf_upload = "slider_product_".$design_img_id."_pdf_upload";
+
+
+
+
+$row_details    =  get_post_row($post_id,$field_title,$field_desc,$field_pdf); // get row title,desc, and pdf link
+$design_room    =  get_post_row_uploads($post_id,$design_img_field,$field_pdf_upload); // get upload rows
+$slider_result  =  get_post_row_background($post_id,$slide_1,$slide_2,$slide_3,$slide_4,$slide_5,$slide_6,$slide_7,$slide_8,$slide_9,$slide_10); // get upload backgroun image rows
+
+
+//echo "<pre>";print_r($slider_result);echo "</pre>";
+?>
+<body class="index_01 " data-controller="anchor-links, selectivizr">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+
+<?php include('newheader.php'); ?>
+<style>
+.post_title_link.active { color: #fdd12e; }
+.back_buttons {
+z-index: 1 !important;
+}
+</style>
+<div class="mobile_top_area">
+
+<?php include('mobile-post-menu.php'); ?>
+
+<!------------------------>
+<a href="#after-promotions" style="padding-bottom: 0 !important" class="promotions__skip"><span class="icon-arrow-down"></span></a>
+<main id="after-promotions" style="padding-bottom: 0 !important" data-controller="class-on-scroll,go-to-on-scroll" data-class="main-header--startpage--after-promotions" data-target="#main-header" data-prev-scroll-target="#promotion-2" data-disable-scroll-stopper class="after-promotions">
+</main>
+<?php include('bgslider.php'); ?>
+
+</div>
+<div style="clear:both"></div>
+<!-- rg-gallery -->
+
+
+<?php include('newfooter.php'); ?>
+</body>
+</html>																				
