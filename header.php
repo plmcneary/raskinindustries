@@ -127,10 +127,10 @@ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async
 if (GoogleAnalitycsScriptUrl.trim() == 'stats.g.doubleclick.net/dc.js') {
 ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
 } else {
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + GoogleAnalitycsScriptUrl;    
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + GoogleAnalitycsScriptUrl;
 }
 
-if (GoogleAnalitycsScriptUrl === '') 
+if (GoogleAnalitycsScriptUrl === '')
 return;
 
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
@@ -160,16 +160,16 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <div class="site-header__inner">
 <div class="content">
 <h1 class="logo_header"><a href="<?php echo get_site_url(); ?>" class="no-underline-link">
-	<img src="http://progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_halfsize.jpg">
+	<img src="../images/raskin_logo_halfsize.jpg">
 	</a></h1>
 <ul class="quicklinks-menu">
 <li>
 <a href="<?php echo get_site_url(); ?>">SEARCH</a>
-</li> 
+</li>
 
 <li>
 <a href="<?php echo get_site_url(); ?>/order-accessories">ORDER ACCESSORIES</a>
-</li> 
+</li>
 
 <li><a href="<?php echo get_site_url(); ?>/elevations">DESIGN A ROOM</a></li>
 

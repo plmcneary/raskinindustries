@@ -26,7 +26,7 @@
 	.mobile_phone_pdf .pdf_main_div{
 	 padding-left: 33px;
     text-align: left;
-	
+
 	}
 	.display_pdf{cursor:pointer;}
 .pdf_ul_display{
@@ -53,7 +53,7 @@
 .pdf_main_div{float:left;margin-bottom:15px;}
 .pdf_ul_display li a{
 	color:#fff;
-	
+
 }
 .display_pdf
 {
@@ -2760,7 +2760,7 @@ h4.verlag {
     content: "\f110"
 }
 .icon-logo:before {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 .icon-magnifying-glass:before {
@@ -6229,7 +6229,7 @@ html .slideshow .slideshow__toggle {
     margin-left: 0
 }
 .main-footer__logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 ,
@@ -6276,12 +6276,12 @@ html .slideshow .slideshow__toggle {
     height: 1.5rem
 }
 .main-footer__logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 @media only screen and (min-width: 40.063em) {
     .main-footer__logo {
-        background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+        background-image: url(../images/raskin_logo_crop.jpg);
         background-repeat: no-repeat;
 	}
 }
@@ -6350,19 +6350,19 @@ html .slideshow .slideshow__toggle {
     min-height: 4.5rem
 }
 .main-header--sticky .main-header__container .main-header__panel__logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 .main-header--sticky .main-header__container .main-header__panel__logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 .main-header--sticky .main-header__container .main-header__panel__logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 .icon-logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 @media only screen and (max-width: 40em) {
@@ -6446,7 +6446,7 @@ html .slideshow .slideshow__toggle {
 @media only screen and (max-width: 40em) {
     .main-header--startpage .main-header__container {
         top: 2.25rem;
-        
+
 	}
     .after-top-links .main-header--startpage .main-header__container {
         top: 0
@@ -6549,38 +6549,38 @@ html .after-top-links .touch .main-header--startpage .main-header__container .ma
 	}
 }
 .main-header--startpage.main-header--sticky .main-header__container .main-header__panel__logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 .main-header--startpage.main-header--sticky .main-header__container .main-header__panel__logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 .main-header--startpage.main-header--sticky .main-header__container .main-header__panel__logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 .icon-logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 @media only screen and (max-width: 40em) {
     .main-header--startpage.main-header--sticky .main-header__container .main-header__panel__logo {
-        background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+        background-image: url(../images/raskin_logo_crop.jpg);
         background-repeat: no-repeat;
 	}
     .icon-logo {
-        background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+        background-image: url(../images/raskin_logo_crop.jpg);
         background-repeat: no-repeat;
 	}
 }
 @media only screen and (min-width: 40.063em) and (max-width: 48em) {
     .main-header--startpage.main-header--sticky .main-header__container .main-header__panel__logo {
-        background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+        background-image: url(../images/raskin_logo_crop.jpg);
         background-repeat: no-repeat;
 	}
     .icon-logo {
-        background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+        background-image: url(../images/raskin_logo_crop.jpg);
         background-repeat: no-repeat;
 	}
 }
@@ -6604,55 +6604,55 @@ html .after-top-links .touch .main-header--startpage .main-header__container .ma
     min-height: 4.5rem
 }
 .after-top-links .main-header--startpage.main-header--startpage--after-promotions .main-header__container .main-header__panel__logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 ,
 .main-header--startpage.main-header--startpage--after-promotions .main-header__container .main-header__panel__logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 ,
 .touch .main-header--startpage .main-header__container .main-header__panel__logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 .after-top-links .main-header--startpage.main-header--startpage--after-promotions .main-header__container .main-header__panel__logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 .main-header--startpage.main-header--startpage--after-promotions .main-header__container .main-header__panel__logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 .touch .main-header--startpage .main-header__container .main-header__panel__logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 .after-top-links .main-header--startpage.main-header--startpage--after-promotions .main-header__container .main-header__panel__logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 .icon-logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 ,
 .main-header--startpage.main-header--startpage--after-promotions .main-header__container .main-header__panel__logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 .icon-logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 ,
 .touch .main-header--startpage .main-header__container .main-header__panel__logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 .icon-logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 @media only screen {
@@ -6982,19 +6982,19 @@ html .after-top-links .touch .main-header--startpage .main-header__container .ma
     min-height: 4.5rem
 }
 .main-header__panel__logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 .main-header__panel__logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 .main-header__panel__logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 .icon-logo {
-    background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+    background-image: url(../images/raskin_logo_crop.jpg);
     background-repeat: no-repeat;
 }
 .main-header__panel__mobile {
@@ -7005,15 +7005,15 @@ html .after-top-links .touch .main-header--startpage .main-header__container .ma
         overflow-y: hidden
 	}
     .main-header__panel__logo {
-        background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+        background-image: url(../images/raskin_logo_crop.jpg);
         background-repeat: no-repeat;
 	}
     .main-header__panel__logo {
-        background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+        background-image: url(../images/raskin_logo_crop.jpg);
         background-repeat: no-repeat;
 	}
     .icon-logo {
-        background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+        background-image: url(../images/raskin_logo_crop.jpg);
         background-repeat: no-repeat;
 	}
     .main-header__panel__mobile {
@@ -7032,15 +7032,15 @@ html .after-top-links .touch .main-header--startpage .main-header__container .ma
         overflow-y: hidden
 	}
     .main-header__panel__logo {
-        background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+        background-image: url(../images/raskin_logo_crop.jpg);
         background-repeat: no-repeat;
 	}
     .main-header__panel__logo {
-        background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+        background-image: url(../images/raskin_logo_crop.jpg);
         background-repeat: no-repeat;
 	}
     .icon-logo {
-        background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+        background-image: url(../images/raskin_logo_crop.jpg);
         background-repeat: no-repeat;
 	}
     .main-header__panel__mobile {
@@ -7067,7 +7067,7 @@ html .after-top-links .touch .main-header--startpage .main-header__container .ma
 }
 @media only screen and (min-width: 64.063em) {
     .main-footer__logo {
-        background-image: url(http://www.progressivewavedesigns.com/raskin/en/gallery/images/raskin_logo_crop.jpg);
+        background-image: url(../images/raskin_logo_crop.jpg);
         background-repeat: no-repeat;
 	}
     .main-header__panel__cart {
@@ -9095,28 +9095,28 @@ html .slideshow-with-header__body__images__list .slideshow-with-header__body__im
 
 /*   ************ ravi media query ****************  */
 
-@media screen and (min-device-width: 280px) and (max-device-width: 500px) { 
+@media screen and (min-device-width: 280px) and (max-device-width: 500px) {
   .rg-caption p {
    float:left;
-   
+
   }
-  
+
   .product_tab_back{text-align:left;margin-left:73px;}
   .back_btn_arrow{margin-right:17px;cursor:pointer;}
-  
+
     .order_sample_new{display:none;}
   .rk_order_sample{display:block;}
   .design_page_ul{padding-left:0px !important;padding-top:19px !important;}
   .design_page_ul li{width:100%;}
   .design_left_sec{width:100% !important;}
- .hide-desktop-menu{display:block;} 
+ .hide-desktop-menu{display:block;}
 .mobile_post_menuss{width:100%;list-style-type:none;}
 .head_top_nav{display:none !important;}
 .mobile_post_menuss li{float:left;margin-left:2px !important;margin-right:15px !important;}
-.mobile_post_menuss{paddin-top:4px !important;}	
-  
+.mobile_post_menuss{paddin-top:4px !important;}
+
   .product_tab_back a {font-weight:bold;}
-  .mob_sub_head{font-size:16px;} 
+  .mob_sub_head{font-size:16px;}
   .inner_ul_head{font-size:16px;}
   .top_back{width:100%;text-align:left;padding-left:36px;}
   .header_top_menu{margin-top: 0px;}
@@ -9128,8 +9128,8 @@ html .slideshow-with-header__body__images__list .slideshow-with-header__body__im
     float: left;
     font-weight: bold;
     padding-bottom: 20px;
-    width: 100%; 
-	  
+    width: 100%;
+
   }
   .pdf_main_div{margin-bottom:10px;}
   .back_buttons{list-style-type:none;}
@@ -9140,15 +9140,15 @@ html .slideshow-with-header__body__images__list .slideshow-with-header__body__im
   .pdf_sub_section{margin-left:55px;text-align:left;}
   .pdf_ul_display_1{top:85px;left:42px;}
   .pdf_ul_display_2{top:137px;left:42px;}
-  .pdf_ul_display_3{top:184px;left:42px;}  
-  .pdf_ul_display_4{top:235px;left:42px;}  
-  
+  .pdf_ul_display_3{top:184px;left:42px;}
+  .pdf_ul_display_4{top:235px;left:42px;}
+
   .pdf_top_head{text-align:left;margin-left:55px;}
   .mob_accessary{display:block !important;}
   .main-header__top-links ul{margin-left:0px;}
   .main-header__top-links ul li{width:auto;float:left;margin-left:9px;}
     .main-header__top-links ul li{font-size:10px;}
-	
+
 	.mobile_top_area{width:100%;float:left;margin-top:34%;}
 	.top_nav_menus{margin-top:4px !important;}
 	.page-content__header .page-content__heading{margin-top:0px;font-size:14px;margin-bottom:7px;}
@@ -9167,7 +9167,7 @@ html .slideshow-with-header__body__images__list .slideshow-with-header__body__im
     padding: 8px 4px 10px 15px !important;
     width: 48%;
 	}
-	
+
 .list-mobile-prdct {
 width: 100%;
 float: left;
@@ -9194,7 +9194,7 @@ margin-bottom: 5px !important;
 }
 .list-mobile-prdct img {
     width: 58px;
-}	
+}
 
 .list-mobile-prdct p {
     height: 50px;
@@ -9217,16 +9217,16 @@ margin-bottom: 5px !important;
     .submenu_new{margin-bottom:12px;width:100% !important;}
 	.page_content_right{margin-left:0px !important;width:100% !important;}
 	.content_page.main_search{padding-left:40px;padding-right:40px;}
-	
+
 }
 
-@media screen and (min-device-width: 500px) and (max-device-width: 800px) { 
+@media screen and (min-device-width: 500px) and (max-device-width: 800px) {
 .rg-caption p {
 float:left;
 
 }
 .product_tab_back a {font-weight:bold;}
-.mob_sub_head{font-size:16px;} 
+.mob_sub_head{font-size:16px;}
 .inner_ul_head{font-size:16px;}
 .top_back{width:100%;text-align:left;padding-left:36px;}
 .header_top_menu{margin-top: 0px;}
@@ -9238,7 +9238,7 @@ color: #fdd12e;
 float: left;
 font-weight: bold;
 padding-bottom: 20px;
-width: 100%; 
+width: 100%;
 
 }
 .pdf_main_div{margin-bottom:10px;width:100%;}
@@ -9250,8 +9250,8 @@ width: 100%;
 .pdf_sub_section{margin-left:55px;text-align:left;}
 .pdf_ul_display_1{top:85px;left:42px;}
 .pdf_ul_display_2{top:137px;left:42px;}
-.pdf_ul_display_3{top:184px;left:42px;}  
-.pdf_ul_display_4{top:235px;left:42px;}  
+.pdf_ul_display_3{top:184px;left:42px;}
+.pdf_ul_display_4{top:235px;left:42px;}
 
 .pdf_top_head{text-align:left;margin-left:55px;}
 .mob_accessary{display:block !important;}
